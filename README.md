@@ -106,7 +106,7 @@ Online Resources
 [Stack Edit]:https://stackedit.io/
 [Dillinger.io]:http://dillinger.io/
 [Karma]:http://karma-runner.github.io/0.10/index.html
-[Jasmine]:http://pivotal.github.io/jasmine/
+[Jasmine]:https://jasmine.github.io/
 [Protractor]:https://github.com/angular/protractor
 [WebDriver.js]:https://code.google.com/p/selenium/wiki/WebDriverJs
 [Can I Use]:http://caniuse.com/
